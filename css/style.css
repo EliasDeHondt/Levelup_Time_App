@@ -41,6 +41,9 @@ body::-webkit-scrollbar-corner {
 }
 /* Scrollbars */
 /* Table */
+ h2 {
+    font-size: 30px;
+}
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
@@ -75,7 +78,7 @@ td, th {
 }
 .bg-goud {
     --bg-opacity: 1;
-    background-color: #A38A00;
+    background-color:#a38a00;
 }
 .bg-yellow {
   --bg-opacity: 1;
