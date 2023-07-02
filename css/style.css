@@ -74,7 +74,7 @@ td, th {
 }
 .bg-orange {
   --bg-opacity: 1;
-  background-color: #f6ad55;
+  background-color: #ffa500;
 }
 .bg-goud {
     --bg-opacity: 1;
@@ -82,7 +82,7 @@ td, th {
 }
 .bg-yellow {
   --bg-opacity: 1;
-  background-color: #ecc94b;
+  background-color: #ffff00;
 }
 .bg-fluorescentgreen {
   --bg-opacity: 1;
